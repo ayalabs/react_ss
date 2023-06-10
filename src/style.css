@@ -1,0 +1,57 @@
+header{
+    color: #fff;
+
+}
+header div.card{
+   
+    min-height:100px ;
+    background: rgb(0, 148, 133);
+    border-radius: 0px;
+
+}
+main{
+    min-height: 560px;
+    margin-top:"500px";
+}
+footer {
+    min-height:50px ;
+
+
+}
+.myform{
+    height: 45px;
+    border: none;
+    border-radius: 0px;
+    background: #f5f5f5;
+    
+}
+.my-slider{
+    min-height: 400px;
+}
+
+.my-slider img{
+    height: 400px;
+    width: 100%;
+}
+.card span{
+    color: orange;
+}
+.info_right{
+    
+    border: 5px solid #fff;
+    background-color: #fff;
+    
+}
+
+@media (max-width: 600px) {
+    .main-div {
+      height: 200px !important;
+    }
+
+}
+
+
+
+/* .arrow{
+    height: 90%;
+} */
